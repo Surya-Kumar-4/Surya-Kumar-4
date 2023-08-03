@@ -12,9 +12,9 @@
 			</div>
 			<div class="Contact">
 				<h2>Contact Details</h2>
-        <p><b>Name:</b>A.Surya</p>
-				<p><b>Email id:</b>suryaku415@gmail.com</p>
-				<p><b>Mobile no :</b>8074217265</p>
+        <p><b>Name:</b> A. Surya Kumar</p>
+				<p><b>Email ID: </b>suryaku415@gmail.com</p>
+				<p><b>Mobile Number: </b>8074217265</p>
 			</div>
     <div class="Education">
 				<h2>Education</h2>
